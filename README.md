@@ -20,13 +20,13 @@ The assignment involved analyzing customer, product, and transaction data to der
 - **Objective**: Build a model to find similar customers based on their profile and transaction history.
 - **Deliverables**:
   - A Python script or Jupyter Notebook explaining the model development process.
-  - A CSV file (`Lookalike.csv`) mapping customers to their top 3 lookalike customers with similarity scores.
+  - A CSV file mapping customers to their top 3 lookalike customers with similarity scores.
 
 ### **Task 3: Customer Segmentation**
 - **Objective**: Perform customer clustering using transaction and profile data.
 - **Deliverables**:
   - A Python script or Jupyter Notebook explaining the clustering process.
-  - A CSV file (`Customer_Segments.csv`) containing cluster assignments.
+  - A CSV file  containing cluster assignments.
   - A PDF report with visualizations and recommendations.
 
 ---
